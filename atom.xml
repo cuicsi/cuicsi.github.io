@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cuicsi.github.io</id>
     <title>傲慢的演奏家</title>
-    <updated>2021-01-16T08:57:01.076Z</updated>
+    <updated>2021-01-19T13:10:15.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cuicsi.github.io"/>
     <link rel="self" href="https://cuicsi.github.io/atom.xml"/>
@@ -11,10 +11,10 @@
     <icon>https://cuicsi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 傲慢的演奏家</rights>
     <entry>
-        <title type="html"><![CDATA[新的一年]]></title>
-        <id>https://cuicsi.github.io/post/xin-de-kai-shi/</id>
-        <link href="https://cuicsi.github.io/post/xin-de-kai-shi/">
+        <title type="html"><![CDATA[家]]></title>
+        <id>https://cuicsi.github.io/post/jia/</id>
+        <link href="https://cuicsi.github.io/post/jia/">
         </link>
-        <updated>2020-12-31T23:55:18.000Z</updated>
+        <updated>2021-01-19T12:43:02.000Z</updated>
     </entry>
 </feed>
